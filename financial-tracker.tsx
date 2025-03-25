@@ -37,22 +37,22 @@ export default function YourPocket() {
   
   // Move userData to state
   const [userData, setUserData] = useState<UserData>({
-    name: "Drew Hays",
-    role: "Elderly People Care",
+    name: "Aditya Jaiswal",
+    role: "Indie Hacker",
     contact: {
-      phone: "+1 234 567 890",
-      email: "drew.hays@example.com"
+      phone: "+91 9793161829",
+      email: "xyz@gmail.com"
     },
     social: {
       personal: {
-        facebook: "drewhays",
-        instagram: "drew.hays",
-        twitter: "@drewhays",
-        telegram: "@drew_hays",
-        snapchat: "drew.hays"
+        facebook: "xyz",
+        instagram: "mysterious.adi",
+        twitter: "@aditya_jaiswal",
+        telegram: "@aditya_jaiswal",
+        snapchat: "xzy"
       },
       professional: {
-        linkedin: "linkedin.com/in/drewhays"
+        linkedin: "linkedin.com/in/adityaxyz"
       }
     }
   })
