@@ -308,7 +308,7 @@ export default function YourPocket() {
 };
 
   return (
-    <div className="flex justify-center items-center min-h-screen bg-black">
+    <div className="flex justify-center items-center min-h-screen bg-black w-full">
       <div className="w-[375px] h-[812px] bg-zinc-900 overflow-hidden relative">
         <div className="relative w-full h-full">
           {/* Home View */}
