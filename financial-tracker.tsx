@@ -373,7 +373,7 @@ export default function YourPocket() {
 
             {/* Social Media Profiles */}
             <div className="space-y-4">
-              <h3 className="text-white font-medium">Social Media Profiles</h3>
+              <h3 className="text-white font-medium"></h3>
               <div className="space-y-4">
                 <div className="bg-zinc-800 rounded-3xl p-4 space-y-4">
                   {/* Personal Social Media */}
@@ -517,32 +517,32 @@ export default function YourPocket() {
 
           {/* Tracking by categories */}
               <div className="space-y-4">
-                <h2 className="text-lg font-medium text-white">Tracking by categories</h2>
+                <h2 className="text-lg font-medium text-white">Previous Shares</h2>
                 <div className="grid grid-cols-2 gap-4">
               <div className="bg-zinc-800 rounded-2xl p-4">
                 <div className="flex justify-between mb-2">
                   <div>
-                    <p className="text-sm text-zinc-400">Monthly</p>
-                    <p className="text-sm text-zinc-400">Salary</p>
+                    <p className="text-sm text-zinc-400"></p>
+                    <p className="text-sm text-zinc-400"></p>
                   </div>
                   <div className="w-8 h-8 flex items-center justify-center bg-zinc-700 rounded-full">
                     <Briefcase className="w-4 h-4 text-white" />
                   </div>
                 </div>
-                <p className="text-2xl font-bold text-white">+$3,190</p>
+                <p className="text-2xl font-bold text-white"></p>
               </div>
 
                   <div className="bg-[#e3ffd9] rounded-2xl p-4">
                 <div className="flex justify-between mb-2">
                   <div>
-                    <p className="text-sm text-zinc-700">Stack</p>
-                    <p className="text-sm text-zinc-700">Dividend</p>
+                    <p className="text-sm text-zinc-700"></p>
+                    <p className="text-sm text-zinc-700"></p>
                   </div>
                   <div className="w-8 h-8 flex items-center justify-center bg-white rounded-full">
                     <Clock className="w-4 h-4" />
                   </div>
                 </div>
-                    <p className="text-2xl font-bold text-black">+$400</p>
+                    <p className="text-2xl font-bold text-black"></p>
                   </div>
                 </div>
               </div>
